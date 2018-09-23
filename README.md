@@ -8,4 +8,5 @@ demo one Youtube
 
 https://www.youtube.com/watch?v=i8QUFrL0l6w&feature=youtu.be
 
-just for educational purposes
+
+Do not use this, it is malware, we aren't responsible if you hurt yourself or others with use of this product. 
