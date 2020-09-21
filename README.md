@@ -3,10 +3,9 @@
 
 keylogger + cookie + redirection ( Tabnaping )
 
-demo one Youtube
+# NEW PROJECT  2020
 
 
-https://www.youtube.com/watch?v=i8QUFrL0l6w&feature=youtu.be
+https://github.com/hakanonymos/botnet-browser-chrome
 
 
-Do not use this, it is malware, we aren't responsible if you hurt yourself or others with use of this product. 
